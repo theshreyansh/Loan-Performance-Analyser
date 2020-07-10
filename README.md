@@ -1,2 +1,2 @@
-# Loan-Performance-Analyser
+# Loan Performance Analyser
 Using administrative data collected by the Bank, comparative analysis of the performance over time of businesses that received assistance through the Bank’s Section 7(a) Loan Guarantee Program, Certified Development Company (504) Loan Program, or Small Business Investment Company (SBIC) Program between 2010 till sept 2019.Past research on Bank's programs has provided evidence of positive associations with firm performance. Through this study we tried to develop some business insights that can help bank to ease in having profitable business through loan programs.
